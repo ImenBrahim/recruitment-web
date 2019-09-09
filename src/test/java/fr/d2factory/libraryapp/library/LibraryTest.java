@@ -32,8 +32,7 @@ public class LibraryTest {
     private float originalWallet;
 
 
-    @Rule
-    public ExpectedException exceptionRule = ExpectedException.none();
+    
     @Before
     public void setup() {
 
