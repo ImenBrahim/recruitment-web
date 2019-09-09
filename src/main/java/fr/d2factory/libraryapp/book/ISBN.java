@@ -6,4 +6,8 @@ public class ISBN {
     public ISBN(long isbnCode) {
         this.isbnCode = isbnCode;
     }
+    public long getIsbnCode() {
+        return isbnCode;
+    }
+
 }
